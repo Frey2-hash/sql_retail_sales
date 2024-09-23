@@ -56,7 +56,7 @@ IGNORE 1 LINES ;
 
 ### 2. Data Exploration & Cleaning
 
-- **Alter table**:  Edit a misspelled column name in the table.
+- **Alter Table**:  Edit a misspelled column name in the table.
 - **Record Count**: Determine the total number of records in the dataset.
 - **Customer Count**: Find out how many unique customers are in the dataset.
 - **Category Count**: Identify all unique product categories in the dataset.
